@@ -11,8 +11,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - Ground
+  - Blocking Layer
   - 
   - 
   - 
@@ -40,4 +40,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Ground Floor
+    uniqueID: 1954170997
+    locked: 0
+  - name: Item
+    uniqueID: 3933396705
+    locked: 0
+  - name: Units
+    uniqueID: 3283951205
     locked: 0

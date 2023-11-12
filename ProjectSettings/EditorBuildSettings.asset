@@ -14,5 +14,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainGame.unity
     guid: c4be6de735fe99e4399aa77081d469a1
+  - enabled: 1
+    path: Assets/Scenes/Rougue2D.unity
+    guid: 58a96b4a278af0847a0df176af4e90e0
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
