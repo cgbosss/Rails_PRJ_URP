@@ -13,7 +13,8 @@ namespace RailsGameEngine
         Rigidbody2D rb2d;
 
         //Directions of the Movment of player
-        Vector2 moveVect2;
+        [HideInInspector]
+        public Vector2 moveVect2;
         
         public float moveSpeed = 3;
 

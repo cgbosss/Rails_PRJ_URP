@@ -380,7 +380,7 @@ TextureImporter:
         serializedVersion: 2
         x: 160
         y: 192
-        width: 32
+        width: 31
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1110,7 +1110,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Scavengers_SpriteSheet_40
+      name: Rogue_ATK_0
       rect:
         serializedVersion: 2
         x: 0
@@ -1131,7 +1131,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Scavengers_SpriteSheet_41
+      name: Rogue_ATK_1
       rect:
         serializedVersion: 2
         x: 32
@@ -1236,7 +1236,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Scavengers_SpriteSheet_46
+      name: Rogue_getHit_0
       rect:
         serializedVersion: 2
         x: 192
@@ -1257,7 +1257,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Scavengers_SpriteSheet_47
+      name: Rogue_getHit_1
       rect:
         serializedVersion: 2
         x: 224
@@ -1463,6 +1463,10 @@ TextureImporter:
       Rogue_3: 21300006
       Rogue_4: 21300008
       Rogue_5: 21300010
+      Rogue_ATK_0: 21300080
+      Rogue_ATK_1: 21300082
+      Rogue_getHit_0: 21300092
+      Rogue_getHit_1: 21300094
       Scavengers_SpriteSheet_10: 21300020
       Scavengers_SpriteSheet_11: 21300022
       Scavengers_SpriteSheet_12: 21300024
@@ -1492,14 +1496,10 @@ TextureImporter:
       Scavengers_SpriteSheet_37: 21300074
       Scavengers_SpriteSheet_38: 21300076
       Scavengers_SpriteSheet_39: 21300078
-      Scavengers_SpriteSheet_40: 21300080
-      Scavengers_SpriteSheet_41: 21300082
       Scavengers_SpriteSheet_42: 21300084
       Scavengers_SpriteSheet_43: 21300086
       Scavengers_SpriteSheet_44: 21300088
       Scavengers_SpriteSheet_45: 21300090
-      Scavengers_SpriteSheet_46: 21300092
-      Scavengers_SpriteSheet_47: 21300094
       Scavengers_SpriteSheet_48: 21300096
       Scavengers_SpriteSheet_49: 21300098
       Scavengers_SpriteSheet_50: 21300100
